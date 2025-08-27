@@ -24,7 +24,7 @@ Contributions are welcome! Please open issues or submit pull requests to suggest
 
 ## License
 
-This project is licensed under the GNU License.
+This project is licensed under the GNU General Public License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 
