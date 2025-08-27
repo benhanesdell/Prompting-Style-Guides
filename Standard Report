@@ -1,0 +1,114 @@
+## Document Structure & Formatting Guidelines
+
+### 1. Document Header
+- **Report Title**: "[Year] Healthcare Policy Impact Report for [[Hospital Name]]"
+- **Subtitle**: "Key Policy Changes Affecting Hospital Operations & Technology"
+- **Prepared for**: [[Hospital Name]]
+- **Date**: [Mo nth Year]
+
+### 2. Table of Contents
+```
+1. Executive Summary
+2. Key Policy Changes Overview
+3. Detailed Policy Analysis
+4. Impact Assessment  
+5. Actionable Recommendations
+6. Dell Solutions Alignment
+7. Financial Impact of Dell Technologies
+8. Appendices
+```
+
+### 3. Executive Summary (1-2 pages)
+**Structure**:
+- **Policy Landscape Summary** (2-3 sentences)
+- **Top 3 Policy Changes** (bullets with impact: 🔴 High | 🟡 Medium | 🟢 Low)
+- **Key Opportunities** (3-4 bullets)
+- **Immediate Actions** (max 5 items)
+- **Bottom Line Impact** (1-2 sentences)
+
+### 4. Key Policy Changes Overview
+**Table format**:
+
+| Policy | Type | Date | Impact | Key Implications |
+|--------|------|------|--------|------------------|
+| [Name] | [Bill/EO/NIH] | [Date] | [H/M/L] | [Summary] |
+
+### 5. Detailed Policy Analysis
+**For each policy**:
+- **Background** (2-3 sentences)
+- **Key Provisions** (bullets)
+- **Timeline** (key dates)
+- **Compliance Requirements**
+- **Technology Implications**
+- **Sales Insight** boxes
+
+### 6. Impact Assessment
+- **Organizational Impact**
+- **Financial Implications** 
+- **Operational Changes**
+- **Technology Gaps**
+- **Risk Assessment**
+
+### 7. Actionable Recommendations
+**Priority 1: Immediate (0-90 days)**
+**Priority 2: Short-term (3-12 months)**
+**Priority 3: Long-term (12+ months)**
+
+Each with outcome, resources, metrics, Dell's role.
+
+### 8. Dell Solutions Alignment
+- **Infrastructure Solutions**
+- **Security & Privacy**
+- **Data Management**
+- **Partnership Opportunities**
+
+### 9. Financial Impact of Dell Technologies
+#### Cost-Benefit Analysis Table
+| Requirement | Without Dell | With Dell | Net Impact |
+|-------------|--------------|-----------|------------|
+
+#### Investment Scenarios
+- **Minimum Compliance**: Investment, timeline, savings, ROI
+- **Strategic Modernization**: Enhanced capabilities + ROI
+- **Full Transformation**: Complete solution + strategic value
+
+#### Financial Benefits
+- **Compliance Penalties Avoided**
+- **Downtime Prevention**
+- **5-Year ROI Projection**
+- **Funding Sources** (grants, financing)
+
+## Style Guidelines
+
+### Writing Style
+- **Professional but accessible** - avoid jargon
+- **Customer-centric** - frame from their perspective
+- **Action-oriented** - use active voice
+- **Max 25 words per sentence**
+- **3-4 sentences per paragraph**
+
+### Formatting
+- **Consistent headings** (H1, H2, H3)
+- **1.15 line spacing**
+- **Bold for emphasis**
+- **Bullets for scannability**
+- **Impact indicators**: 🔴 🟡 🟢
+
+### Content Rules
+- **Include**: Quantified impacts, real examples, conversation starters
+- **Avoid**: Unexplained jargon, generic recommendations
+- **Define acronyms** on first use
+- **Personalize** with customer name throughout
+
+## Quality Checklist
+- [ ] Executive Summary readable in 5 minutes
+- [ ] All recommendations specific and actionable
+- [ ] Customer personalization throughout
+- [ ] No jargon without explanation
+- [ ] Clear financial justification
+- [ ] Visual elements enhance understanding
+
+### Length Guidelines
+- **Total**: 18-30 pages
+- **Executive Summary**: 2 pages max
+- **Financial Impact**: 3-4 pages max
