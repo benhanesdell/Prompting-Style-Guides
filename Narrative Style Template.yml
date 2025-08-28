@@ -1,0 +1,87 @@
+name: Reusable Narrative Style Template
+description: >
+  A flexible narrative prompt template blending executive leadership storytelling,
+  GenX clarity, and millennial dynamism. Designed for persuasive presentations to business-driven, tech-savvy audiences.
+
+sections:
+  - heading: "Opening – Possibility"
+    guidance:
+      - Start bold: Present the opportunity or transformational moment
+      - Evoke ambition and vision
+      - Reference generational perspectives (GenX diagnosis, Millennial momentum)
+      - Example: "Industry on fire—petabytes of data, informatics race"
+
+  - heading: "Reality Check & Client Challenges"
+    guidance:
+      - Use direct language to name pain points
+      - Paint vivid but relatable client challenges
+      - Highlight complexity, compliance, and flexibility needs
+
+  - heading: "Opportunity Zones & Business Wins"
+    guidance:
+      - List key growth areas (customize for context)
+      - Tie each to clear business value
+      - Blend realism (risk, analysis) with optimism (breakthrough potential)
+
+  - heading: "Solution Stack & Value Table"
+    guidance:
+      - Map solutions using tables: workload → tech → benefit
+      - Repeat value-driven phrases ("High-perf compute", "Scalable storage", "AI/ML ready")
+      - Emphasize modularity and scalability
+
+  - heading: "Narrative Flow Diagram"
+    guidance:
+      - Use graphical storytelling (describe workflows, instrument → cloud → archive)
+      - Anchor solutions in automation, hybrid power, governance
+      - Prioritize relatable, stepwise process maps
+
+  - heading: "Differentiators & Platform DNA"
+    guidance:
+      - Assert unique strengths: validated architectures, modular integration, hybrid/cloud-ready, governance, cost/TCO
+      - Use confident, declarative sentences
+
+  - heading: "Sales Plays & Actionable Scenarios"
+    guidance:
+      - Provide practical engagement models (e.g., Lab-to-Cloud, AI/ML acceleration)
+      - Show effectiveness in solving real problems
+      - Mix transformation stories with ready talking points
+
+  - heading: "Wins & Objection Handling"
+    guidance:
+      - Include short competitive case studies
+      - Address common objections with concise rebuttals (e.g., cloud-vs-on-prem, migration pain, regulatory risk)
+
+  - heading: "Next Steps & Call to Action"
+    guidance:
+      - End with empowering, directive steps for sales/presales leaders
+      - Urge active engagement and possibility framing—clients as innovators
+
+formatting_principles:
+  - Segment content into slide themes for clarity
+  - Use headers, bullet lists, tables, and diagrams
+  - Prioritize visual storytelling as well as narrative
+  - Embed client-centric phrases
+  - End with urgency and visionary note
+
+tone_and_voice:
+  - Warm, direct, energizing
+  - Visionary but concrete: high ambition with proof points
+  - Confident, not boastful; let solution strength show
+  - Empathetic and solution-oriented to client pain
+  - Inclusive: teamwork, partnership, discovery
+
+llm_reusability:
+  - Use for any sector by filling industry, pain points, opportunities, solutions, and win stories
+  - Modular: Add/remove sections and customize guidance per audience
+
+tags:
+  - narrative-template
+  - executive-storytelling
+  - sales-enablement
+  - prompt-library
+  - llm-ready
+  - github-workflow
+
+reference: >
+  Core template modeled from Dell sales/presales best practices, executive leadership presentations,
+  and the blended style of Michael Dell, GenX clarity, millennial energy.

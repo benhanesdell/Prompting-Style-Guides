@@ -1,0 +1,149 @@
+name: Financial Report Style Guide
+description: >
+  Guideline for preparing financial reports with accuracy, strategic relevance, integrity, and professional presentation.
+  Optimized for use in LLM prompt libraries, enterprise config repositories, and GitHub workflows.
+
+mission_statement: |
+  Deliver clear, accurate, and strategically relevant financial reports that inform investment decisions,
+  support executive strategy, and maintain the highest standards of factual integrity and professional presentation.
+
+data_integrity_protocols:
+  factual_accuracy_standards:
+    - Source all financial data from audited filings, investor presentations, or reputable databases (e.g., Bloomberg, FactSet, S&P Capital IQ).
+    - Use attribution phrases: "according to Q2 earnings report", "as reported by [source]".
+    - For forward-looking statements, use qualified language: "guidance suggests", "analysts project", "management anticipates".
+    - Never fabricate: revenue, EBITDA, margins, valuation multiples, or growth rates.
+    - Use disclaimer templates for speculative or model-based projections.
+  information_sourcing_framework:
+    primary_sources:
+      - SEC filings
+      - earnings calls
+      - investor decks
+      - analyst reports
+    secondary_sources:
+      - industry benchmarks
+      - macroeconomic data
+      - peer comparisons
+    prohibited_content:
+      - insider information
+      - non-public forecasts
+      - speculative M&A rumors
+
+report_structure_framework:
+  executive_summary:
+    objective: Deliver high-level insights for decision-makers.
+    guidelines:
+      - Highlight key financial metrics (e.g., revenue growth, margin expansion).
+      - Summarize strategic developments (acquisitions, divestitures, capital allocation).
+      - Include valuation snapshot and investment thesis.
+      - Provide forward-looking commentary based on management guidance or analyst consensus.
+  financial_performance_analysis:
+    core_metrics:
+      - revenue
+      - gross_margin
+      - operating_margin
+      - EBITDA
+      - net_income
+    comparisons:
+      - year_over_year
+      - quarter_over_quarter
+    include_trend_charts: true
+    include_peer_benchmarks: true
+    cite_all_data_sources: true
+    ensure_consistency: true
+  strategic_developments:
+    business_strategy_integration:
+      - M&A activity
+      - product launches
+      - geographic expansion
+      - capital_structure_changes: [ "debt issuance", "buybacks", "dividends" ]
+      - management_commentary
+      - strategic_priorities
+      - link_to_financial_impact: true
+      - valuation_implications: true
+  valuation_overview:
+    investor_focused_framework:
+      - present_current_valuation_multiples: [ "P/E", "EV/EBITDA", "P/S" ]
+      - compare_industry_averages: true
+      - compare_historical_ranges: true
+      - include_DCF_summary: true
+      - include_comparable_analysis: true
+      - include_precedent_transactions: true
+      - label_assumptions_and_sensitivity: true
+  risk_and_sensitivity_analysis:
+    risk_disclosure_protocol:
+      identify_key_risks:
+        - macroeconomic
+        - regulatory
+        - competitive
+        - operational
+      scenario_analysis_or_stress_testing: true
+      use_probabilistic_language: true
+      reference_official_risk_disclosures: true
+  outlook_and_guidance:
+    forward_looking_framework:
+      - present_company_guidance_and_analyst_consensus: true
+      - include_growth_drivers
+      - include_margin_expectations
+      - include_capital_allocation_plans
+      - use_charts_for_projections: true
+      - distinguish_company_guidance_from_third_party: true
+  appendices_and_supporting_data:
+    data_transparency_standards:
+      - full_financial_statements: [ "Income Statement", "Balance Sheet", "Cash Flow" ]
+      - reconciliation_for_non_GAAP_metrics: true
+      - glossary_of_terms_and_acronyms: true
+      - links_to_source_docs_or_investor_relations: true
+
+visual_presentation_standards:
+  design_requirements:
+    - professional_layout: "Clean, minimal, executive-friendly"
+    - color_palette: "Neutral tones, strategic highlight (red=growth, green=risk)"
+    - typography: "Serif body, sans-serif headings"
+    - charting_standards: [ "bar_chart", "line_chart", "waterfall_chart" ]
+  content_integration:
+    - header_info:
+        - company_name
+        - report_title
+        - date
+        - analyst_name
+    - key_metrics_dashboard: true
+    - valuation_summary: true
+    - risk_matrix: true
+
+quality_assurance_framework:
+  verification_checkpoints:
+    - pre_analysis: "Confirm scope and sources"
+    - mid_review: "Validate calculations and assumptions"
+    - final_review: "Ensure disclosure compliance"
+  compliance_protocol:
+    - align_with_GAAP_IFRS: true
+    - ensure_Reg_FD_compliance: true
+    - confirm_brand_and_formatting_consistency: true
+  risk_mitigation_strategy:
+    - use_conservative_language_for_projections: true
+    - clearly_separate_facts_from_opinions: true
+    - include_disclaimer_for_investment_recommendations: true
+
+expected_deliverables:
+  primary: Financial analysis report (PDF or HTML)
+  secondary: Executive summary slide deck or infographic
+  quality_standard: Institutional-grade, investor-ready materials
+
+success_metrics:
+  - accuracy_of_financial_data
+  - clarity_of_strategic_insights
+  - professional_presentation_quality
+  - compliance_with_disclosure_standards
+
+transformative_outcome: |
+  Deliver financial intelligence that drives strategic decisions and investment confidence, backed by rigorous analysis and transparent sourcing.
+
+tags:
+  - financial-report
+  - style-guide
+  - compliance
+  - executive-strategy
+  - prompt-library
+  - llm-ready
+  - github-automation

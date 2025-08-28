@@ -1,0 +1,145 @@
+name: Technology Company Strategic Announcement Framework
+description: >
+  Transform provided technology company information into compelling, accurate, and strategically-aligned announcement documents that drive market impact
+  while maintaining strict factual integrity. Designed for export as .yml files and integration into LLM prompt libraries, enterprise config repositories, or GitHub workflows.
+
+mission_statement: |
+  Transform technology company information into strategic market communications with absolute factual integrity and professional excellence standards.
+
+critical_data_integrity_requirements:
+  factual_accuracy_protocol:
+    - All statistics must be verifiable and sourced from public information.
+    - Use attribution phrases: "according to [source]", "industry reports indicate".
+    - Use qualified language when metrics are unavailable: "estimated", "projected", "anticipated".
+    - Never fabricate: pricing, availability dates, technical specifications, performance metrics.
+    - Default to: "to be announced" for unavailable information.
+    - Include disclaimer templates for unverified projections.
+  information_sourcing_framework:
+    provided_information:
+      - actual product specifications
+      - verified capabilities
+      - confirmed announcements
+    research_required:
+      - public industry trends
+      - competitive landscape analysis
+      - market context
+    prohibited_content:
+      - unreleased product speculation
+      - internal company strategy
+      - confidential/internal metrics
+
+strategic_document_structure_framework:
+  executive_summary:
+    objective: Maximize C-level impact and strategic comprehension.
+    guidelines:
+      - Lead with most impactful verified business value proposition.
+      - Highlight confirmed innovation and documented market significance.
+      - End with forward-looking statement connecting to published company vision.
+      - Ensure all claims are attributable to provided/public information.
+  market_context_analysis:
+    strategic_positioning_framework:
+      - Articulate documented market challenge or verified opportunity.
+      - Include sourced industry statistics with attribution.
+      - Describe impact on target segments.
+      - All data must include source citations.
+  innovation_highlights:
+    technical_communication_strategy:
+      - Use accessible language, preserving technical accuracy.
+      - Include only confirmed specifications and validated capabilities.
+      - Explain differentiation from previous generations or competitors.
+      - Present technical architecture from provided information only.
+      - Limit claims to verified specifications.
+  business_value_proposition:
+    quantifiable_impact_framework:
+      - Translate features to documented business outcomes.
+      - Include sourced metrics on cost efficiency, productivity, security, sustainability.
+      - Add customer-focused strategic implications.
+      - Ensure all ROI claims are qualified or sourced.
+  strategic_market_position:
+    competitive_landscape_analysis:
+      - Link announcement to company vision/roadmap.
+      - Reference verified market leadership positions.
+      - Align with industry trends and public market analysis.
+      - Limit strategic claims to public information.
+  go_to_market_timeline:
+    implementation_roadmap:
+      - Provide confirmed release/availability timelines.
+      - Include announced pricing structures (when available).
+      - Detail documented deployment requirements/compatibility.
+      - Use "Subject to change" for preliminary information.
+  supporting_strategic_assets:
+    deliverable_framework:
+      - Create simplified HTML infographic focusing on messaging hierarchy.
+      - Suggest realistic case study angles.
+      - Recommend feasible demo opportunities and confirmed visual elements.
+
+dell_solutions_alignment:
+  infrastructure_solutions: Emphasize advancements in data center operations.
+  security_and_privacy: Highlight cyber resiliency enhancements.
+  data_management: Showcase transformative data center operations solutions.
+  partnership_opportunities: Illustrate strategic collaborations.
+
+html_infographic_specifications:
+  design_requirements:
+    - Use company brand colors with strategic accent.
+    - Executive-friendly layout: clear hierarchy as per document structure.
+    - Responsive design for accessibility.
+    - Typography hierarchy: headings, subheadings, body text.
+  content_integration_standards:
+    required_sections:
+      - header: company branding with event/announcement context
+      - executive_summary: key points visualization
+      - market_context: statistics with source attribution
+      - innovation_showcase: confirmed products, visual hierarchy
+      - business_impact: data visualization for verified impact
+      - strategic_position: market leadership representation
+      - timeline_visualization: product availability roadmap
+  data_visualization_protocol:
+    - Create comparison charts with verified metrics only.
+    - Include product timeline with confirmed dates.
+    - Use validated performance data for visuals.
+    - Avoid speculation; label any projected/estimated data.
+  product_specification_standards:
+    - Every product mention must include full, verified product name.
+    - Group by provided category classification.
+    - Include only confirmed availability dates.
+    - Use professional icons/design elements for consistency.
+
+quality_assurance_framework:
+  verification_checkpoints:
+    - pre_development: confirm scope and info limitations
+    - content_review: verify statistics and claims against sources
+    - final_validation: check for fabricated data/speculation
+  brand_alignment_protocol:
+    - company_brand_guidelines: ensure compliance
+    - communication_standards: align messaging
+    - strategic_messaging: maintain market positioning consistency
+  risk_mitigation_strategy:
+    - Use conservative, qualified language.
+    - Ensure source transparency and attribution.
+    - Explicitly limit speculation on proprietary info.
+
+expected_deliverables:
+  primary_output: Strategic announcement document per structure framework
+  secondary_output: Professional HTML infographic with verified visuals
+  quality_standard: Executive-ready, fact-checked materials
+
+success_metrics:
+  - factual_accuracy_verification
+  - strategic_impact_maximization
+  - brand_consistency_alignment
+  - executive_comprehension_optimization
+
+transformative_outcome: |
+  Convert company information into strategic market communications
+  that drive impact through rigorous analysis, verified sources, and professional excellence.
+
+tags:
+  - tech-announcement
+  - strategic-communication
+  - data-integrity
+  - dell-solutions
+  - executive-ready
+  - html-infographic
+  - prompt-library
+  - github-automation
