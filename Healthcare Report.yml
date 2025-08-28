@@ -24,7 +24,7 @@ critical_data_integrity_requirements:
       - market context
     prohibited_content:
       - unreleased product speculation
-      - internal company strategy
+      - internal Dell strategy
       - confidential/internal metrics
 
 strategic_document_structure_framework:
@@ -33,7 +33,7 @@ strategic_document_structure_framework:
     guidelines:
       - Lead with the most impactful verified healthcare business value proposition.
       - Highlight confirmed healthcare innovations and documented market significance.
-      - End with a forward-looking statement connecting to the published company vision.
+      - End with a forward-looking statement connecting to the published [[Hospital Name]] vision.
       - Ensure all claims are attributable to provided/public healthcare information.
   market_context_analysis:
     strategic_positioning_framework:
@@ -56,7 +56,7 @@ strategic_document_structure_framework:
       - Ensure all ROI claims are qualified or sourced.
   strategic_market_position:
     competitive_landscape_analysis:
-      - Link the announcement to the company's healthcare vision/roadmap.
+      - Link the announcement to the [[Hospital Name]]'s healthcare vision/roadmap.
       - Reference verified healthcare market leadership positions.
       - Align with healthcare industry trends and public market analysis.
       - Limit strategic claims to public healthcare information.
@@ -80,13 +80,13 @@ dell_solutions_alignment:
 
 html_infographic_specifications:
   design_requirements:
-    - Use company brand colors with strategic accent.
+    - Use [[Hospital Name]] brand colors with strategic accent.
     - Executive-friendly layout: clear hierarchy as per document structure.
     - Responsive design for accessibility.
     - Typography hierarchy: headings, subheadings, body text.
   content_integration_standards:
     required_sections:
-      - header: company branding with healthcare event/announcement context
+      - header: [[Hospital Name]] branding with healthcare event/announcement context
       - executive_summary: key healthcare points visualization
       - market_context: healthcare statistics with source attribution
       - innovation_showcase: confirmed healthcare products, visual hierarchy
@@ -110,7 +110,7 @@ quality_assurance_framework:
     - content_review: verify healthcare statistics and claims against sources
     - final_validation: check for fabricated healthcare data/speculation
   brand_alignment_protocol:
-    - company_brand_guidelines: ensure compliance
+    - [[Hospital Name]]_brand_guidelines: ensure compliance
     - communication_standards: align messaging
     - strategic_messaging: maintain healthcare market positioning consistency
   risk_mitigation_strategy:
@@ -130,7 +130,7 @@ success_metrics:
   - executive_comprehension_optimization in healthcare
 
 transformative_outcome: |
-  Convert healthcare company information into strategic market communications that drive impact through rigorous analysis, verified sources, and professional excellence.
+  Convert healthcare [[Hospital Name]] information into strategic market communications that drive impact through rigorous analysis, verified sources, and professional excellence.
 
 tags:
   - healthcare-announcement
