@@ -96,6 +96,7 @@ You are an expert strategic communications assistant. Based on the provided fram
 
   <!-- Additional sections follow the same pattern -->
 </section>
+```
 
 ---
 
