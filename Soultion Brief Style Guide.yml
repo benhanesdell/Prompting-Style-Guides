@@ -1,0 +1,168 @@
+executive_summary:
+  brand_identity:
+    description: >
+      The style embodies enterprise-grade innovation, trust, and tailored solutions for digital transformation. 
+      Its design philosophy is clean, modern, and professional, supporting clarity of messaging and high-impact presentation to communicate technical leadership and customer focus in the AI space.<ref id="doc_1"/>
+  design_philosophy:
+    principles:
+      - Use simplified, uncluttered layouts to prioritize legibility and clarity.
+      - Highlight Dell’s blue color palette and consistent logo usage to reinforce brand trust.
+      - Employ a confident, informative, and approachable tone.
+
+visual_identity_standards:
+  color_palette:
+    primary:
+      dell_blue:
+        hex: "#0076CE"
+        usage: headlines, key brand highlights
+    secondary:
+      slate_gray:
+        hex: "#53565A"
+        usage: subheadings, supporting text
+      white:
+        hex: "#FFFFFF"
+        usage: backgrounds, whitespace
+      light_gray:
+        hex: "#F3F3F3"
+        usage: section separators, background contrast
+    accent:
+      emerald:
+        hex: "#00B388"
+        usage: call-to-action, icons
+      caution_yellow:
+        hex: "#FFD900"
+        usage: subtle attention, highlights
+  logo:
+    placement: top-left on first page; may repeat in footers on subsequent pages
+    clear_space: "Minimum 20px on all sides"
+    size: >
+      Height not to exceed 50px on cover; 30px in footers
+    usage_rules:
+      - Never stretch, rotate, or apply effects to the logo.
+      - Minimum size for digital: 100px width.
+      - Logo must appear in full color on white or light backgrounds.
+  images:
+    style: >
+      Use high-contrast, technology-themed photography or abstract graphics. Images must relate to AI, data or innovation themes.<ref id="doc_1"/>
+    treatment: Rounded corners (8px radius), subtle drop shadow (#dbeffa at 30% opacity).
+    do: Use original Dell imagery or high-quality stock consistent with branding.
+    don't: Use low-res, busy, or irrelevant pictures.
+  icons_graphics:
+    style: >
+      Flat, monochrome or two-tone icons in Dell Blue or accent Emerald. Consistent line weight (2px). 
+      Icons should support section themes (ex: data, cloud, security).
+    do: Use SVGs for scalability.
+    don't: Mix more than two colors per icon, use clip art.
+
+typography_guidelines:
+  fonts:
+    primary:
+      name: "Dell Sans (preferred), Helvetica Neue, Arial, sans-serif"
+      weight: 400 (body), 700 (headings)
+    usage:
+      heading_1:
+        size: "28-34pt"
+        weight: bold
+        line_spacing: "1.2x"
+      heading_2:
+        size: "22-26pt"
+        weight: bold
+        line_spacing: "1.2x"
+      subheading:
+        size: "16-18pt"
+        weight: medium
+        line_spacing: "1.3x"
+      body_text:
+        size: "11-12pt"
+        weight: normal
+        line_spacing: "1.5x"
+      caption:
+        size: "9pt"
+        weight: normal
+        line_spacing: "1.2x"
+    do: >
+      Use large type for section headers, all caps for section titles if applicable. Keep paragraphs short (3-5 lines maximum).
+    don't: >
+      Mix more than two typefaces per page. Avoid unnecessary italics or underlines. Never justify text.
+
+layout_templates:
+  page_layout:
+    grid_system: >
+      6-column grid, 1" margins, ample white space between sections.
+    spacing:
+      section_gap: "32px"
+      paragraph_gap: "16px"
+      internal_margin: "22px"
+    headers_footers:
+      header:
+        style: >
+          Page header uses section title, Dell logo (if not on cover), aligned left.
+        height: "60px"
+        color: "#F3F3F3" background
+      footer:
+        style: >
+          Legal disclaimer in 9pt type, Dell logo right-aligned, page number left-aligned.
+        height: "40px"
+        color: "#F3F3F3" background
+    section_organization:
+      pattern: >
+        Begin with a bold section heading, short intro paragraph, followed by bulleted key points, then supporting details.
+    content_hierarchy:
+      methods:
+        - Main messages at top or start of sections
+        - Clear separation between primary and secondary content with color or spacing
+        - Strong call-to-action in prominent accent color at document end
+
+content_standards:
+  tone_of_voice:
+    description: >
+      Confident, approachable, and informative. Avoid jargon-heavy or salesy language; emphasize outcome-focused problem-solving.<ref id="doc_1"/>
+    do: Focus on enterprise impact, clarity, and credibility.
+    don't: Use promotional language, ambiguous statements, or superlatives without evidence.
+  writing_style:
+    conventions:
+      - Use active voice: "Deploy AI rapidly" vs "AI is rapidly deployed"
+      - Short sentences (max 20 words)
+      - Bulleted lists for advantages/features
+      - Headings and subheadings for organization
+  call_to_action:
+    pattern: >
+      Accentuate CTA at page ends in accent Emerald or Dell Blue, bolded; use phrases like "Get started," "Explore Services," or "Join the conversation."
+  data_presentation:
+    methods:
+      - Tables with clear header rows, Dell Blue for columns
+      - Charts/graphics using the primary palette only
+      - Supporting text always appears below or beside visuals (not above)
+    do: Use concise, well-labeled figures.
+    don't: Present data without visual context or explanation.
+
+implementation_examples:
+  before_after:
+    before:
+      - Mixed fonts, logo with effects, cluttered layout, ambiguous section breaks
+      - Overly long paragraphs, low-contrast tables
+    after:
+      - Unified Dell Sans font, logo in correct placement and size, strong grid use
+      - Short, bulleted lists, accent color CTAs, tables in Dell Blue
+      - Images themed to AI and data, 8px rounded corners, drop shadow
+  sample_do_dont:
+    do:
+      - Place the Dell logo top-left, use 28pt bold for H1, accent CTAs
+      - Group related points with clear headings
+    don't:
+      - Use justified text, multiple font types, or stock photos not branded
+
+quick_reference_guide:
+  checklist:
+    - Use Dell Blue (#0076CE) for main highlights
+    - Place logo top-left, never stretch or re-color
+    - Only Dell Sans, Helvetica Neue, or Arial font
+    - Keep sections short; max 5 lines per paragraph
+    - Accent Emerald (#00B388) for CTAs
+    - Use 6-column grid, 1" margins
+    - Header/footer backgrounds: light gray (#F3F3F3)
+    - Images: rounded corners, drop shadow, relevant theme
+    - Table/chart colors: only primary palette
+    - Tone: confident, solution-focused, not promotional
+    - Always cite data or claims with supporting details
+    - Save document in PDF with fonts embedded for consistency
